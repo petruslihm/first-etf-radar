@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+.DS_Store
+reports/
+*.out.log
+*.err.log
+.dart_cache/
+.cache/
